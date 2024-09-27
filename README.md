@@ -2,6 +2,12 @@
 
 Welcome to my GitHub! I'm a passionate **Biomedical Sciences student** with a strong interest in **web development**, **mobile app development**, and **data science**. I love working on projects that combine my knowledge of science and technology to create impactful solutions.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,kotlin,git,react,vue,django,nextjs,flutter,express,sequelize,vscode,androidstudio,pycharm&perline=5" />
+  </a>
+</p>
+
 ## 🌟 My Skills & Interests:
 - **Languages:** Python, JavaScript, TypeScript, SQL, HTML, CSS
 - **Frameworks & Libraries:** React, Next.js, Django, Flask, Express, Expo
