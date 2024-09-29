@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate **Biomedical Sciences student** with a st
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,git,androidstudio,java,kotlin,django,bash,blender,bootstrap,css,dart,express,firebase,flask,github,html,ai,jest,jquery,kali,md,nextjs,pinia,postgresql,postman,pycharm,react,replit,sqlite,sklearn,sequelize,svg,tailwind,vim,vscode,vue,vuetify,xd,yarn&theme=light&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,git,androidstudio,java,kotlin,django,bash,blender,bootstrap,css,dart,express,firebase,flask,github,html,ai,jest,jquery,kali,md,nextjs,pinia,postgresql,postman,pycharm,react,replit,sqlite,sklearn,sequelize,svg,tailwind,vim,vscode,vue,vuetify,xd,yarn&theme=dark&perline=7" />
   </a>
 </p>
 
