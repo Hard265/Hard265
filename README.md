@@ -17,10 +17,10 @@ Welcome to my GitHub! I'm a passionate **Biomedical Sciences student** with a st
 
 ## 🌟 My Skills & Interests:
 - **Languages:** Python, JavaScript, TypeScript, SQL, HTML, CSS
-- **Frameworks & Libraries:** React, Next.js, Django, Flask, Express, Expo
-- **Mobile Development:** React Native, Expo, Flutter
-- **Data Science & ML:** TensorFlow.js, Pandas, NumPy, SciPy
-- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
+- **Frameworks & Libraries:** React, Next.js, Vue, Django, Flask, Express, Expo
+- **Mobile Development:** React Native, Expo, Flutter, Android Studio
+- **Data Science & ML:** TensorFlow, Pandas, NumPy, SciPy
+- **Databases:** PostgreSQL, SQLite
 - **Other Tools:** Git, Redux, MobX, JWT, Socket.IO
 
 ## 🚀 Projects I'm working on:
