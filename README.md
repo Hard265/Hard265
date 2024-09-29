@@ -15,8 +15,6 @@ Welcome to my GitHub! I'm a passionate **Biomedical Sciences student** with a st
 ![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000) ![Django](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&color=092E20) ![Expo](https://img.shields.io/badge/Framework-Expo-informational?style=flat&logo=expo&color=000020) ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=4169E1) ![Git](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&color=F05032) ![GitHub](https://img.shields.io/badge/Platform-GitHub-informational?style=flat&logo=github&color=181717) ![Visual Studio Code](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual-studio-code&color=007ACC)
 
-ChatGPT can make mistakes. Check important info.
-
 ## 🌟 My Skills & Interests:
 - **Languages:** Python, JavaScript, TypeScript, SQL, HTML, CSS
 - **Frameworks & Libraries:** React, Next.js, Django, Flask, Express, Expo
